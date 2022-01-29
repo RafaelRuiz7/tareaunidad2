@@ -1,0 +1,49 @@
+h1{
+    color: red;
+    background-color: springgreen;
+    border-style: double;
+    padding-left: 40%;
+}
+  
+h2{
+    color: red;
+    background-color: springgreen;
+    box-shadow: 5px -5px 10px ghostwhite;
+    padding-left: 40%
+} 
+h2:hover{  
+    background-position: right;
+  
+} 
+ 
+p{
+    font-size: 22px;
+}
+
+.destacados{
+    font-size: 22px;
+}
+
+.destacados:hover{
+    background-color: yellow;
+}
+li{
+    font-size: 20px;
+}
+body{
+    background: linear-gradient(to right, orange, red);
+    border: lightslategray;
+    font-family: sans-serif;
+}
+
+h4{
+    color: blue;
+}
+h4:hover{
+    cursor: pointer;
+    
+    font-family: cursive;   
+}
+.hobbies{
+    padding-left: 45%;
+}
