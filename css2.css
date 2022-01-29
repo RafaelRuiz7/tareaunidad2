@@ -1,0 +1,38 @@
+.contenedor{
+    background-color: greenyellow;
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    margin: 0 auto;
+    position: relative;
+     
+       
+}
+
+.item1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-left: 200px;/*profe se puede hacer asi?*/
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.item2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 200px;/*profe se puede hacer asi?*/
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.item3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin-left: 200px;/*profe se puede hacer asi?*/
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}

@@ -1,0 +1,39 @@
+.contenedor{
+    background-color: greenyellow;
+    width: 300px;
+    height: 300px;
+    border: solid;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    margin: auto;
+
+}
+.item1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.item2{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.item3{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
