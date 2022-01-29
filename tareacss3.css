@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	color: #000;
+	background: #332F29;
+	font-size:100%;
+}
+#contenedor {
+	width: 800px;
+	background: #8FA68E;
+	margin-right:auto;
+	margin-left:auto;
+	overflow: hidden;
+}
+nav {
+	background: #CC3910;
+	float: left;
+	width: 800px;
+	
+}
+ul {
+	list-style-type:none;
+	
+}
+	
+a {
+	color:#F1F2C0;
+	text-decoration: none;
+	display: flex;
+	flex-direction: column;
+	align-content: space-around;
+	margin: 5px;
+}
+section {
+	background: #F1F2C0;
+	float: left;
+	width: 800px;
+	height: 125px;
+}
+aside {
+	background: #CCC59E;
+	float: right;
+	width: 800px;
+
+}
+.item1{
+	display: flex;
+	align-items: flex-start;
+	margin-top: 10px;
+
+
+}
